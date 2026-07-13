@@ -1,56 +1,91 @@
 # 👋 Привет! Меня зовут Данила Редкин
 
-Я начинающий Data Analyst, специализируюсь на анализе данных, SQL, Python и BI.
+### Data Analyst | Python | SQL | Power BI | Yandex DataLens
 
-Сейчас развиваюсь в направлении продуктовой и бизнес-аналитики и собираю портфолио проектов на реальных данных.
+Начинающий аналитик данных, который специализируется на анализе продаж, автоматизации отчетности и создании интерактивных BI-дашбордов.
 
----
-
-## 🛠️ Стек
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![DataLens](https://img.shields.io/badge/Yandex_DataLens-FFCC00?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+📚 Сейчас активно развиваюсь в области продуктовой и бизнес-аналитики, пополняя портфолио проектами на Python, SQL и DataLens.
 
 ---
 
-## 📂 Проекты
+# 🚀 Основной стек
 
-### 📊 Аналитика продаж интернет-магазина
+<p align="left">
 
-Полный аналитический проект:
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-- подготовка данных в Python;
-- SQL-анализ;
-- база SQLite;
-- интерактивный дашборд в Yandex DataLens.
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-👉 Репозиторий:
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/Yandex_DataLens-FFCC00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+</p>
+
+---
+
+# 📂 Лучший проект
+
+## 📊 Аналитика продаж интернет-магазина
+
+Полный аналитический проект от подготовки данных до BI-дашборда.
+
+### Что сделано
+
+- Очистка и обработка данных в Python
+- SQL-анализ базы SQLite
+- Расчет бизнес-метрик
+- Анализ клиентов, брендов, категорий
+- Построение интерактивного Dashboard в Yandex DataLens
+
+### Технологии
+
+Python • SQL • SQLite • Pandas • DataLens
+
+### Ссылки
+
+📁 Репозиторий
 
 https://github.com/redkindo/ecommerce-sales-dashboard
 
----
+📊 Dashboard
 
-## 📈 GitHub статистика
-
-![](https://github-readme-stats.vercel.app/api?username=redkindo&show_icons=true&theme=default)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=redkindo&layout=compact)
+https://datalens.yandex/i6m7kggi3xqe1
 
 ---
 
-## 📫 Контакты
+# 📈 GitHub статистика
 
-📧 Email:
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=redkindo&show_icons=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redkindo&layout=compact"/>
+
+</p>
+
+---
+
+# 📫 Контакты
+
+📧 Email
+
 danil.redkin0202@mail.ru
 
-💬 Telegram:
+💬 Telegram
+
 https://t.me/skillsmess
 
-📊 DataLens Dashboard:
-https://datalens.yandex/i6m7kggi3xqe1
+📍 Москва
+
+---
+
+> Спасибо за просмотр моего профиля!
