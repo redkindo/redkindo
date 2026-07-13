@@ -71,10 +71,7 @@ https://datalens.yandex/i6m7kggi3xqe1
 
 ## 📈 GitHub статистика
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redkindo&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redkindo&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=redkindo&theme=github)
 
 ---
 
