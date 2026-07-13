@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/banner.png" alt="Banner">
+</p>
 # 👋 Привет! Меня зовут Данила Редкин
 
 ### Data Analyst | Python | SQL | Power BI | Yandex DataLens
