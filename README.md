@@ -67,8 +67,7 @@ https://datalens.yandex/i6m7kggi3xqe1
 ---
 
 ## 📈 GitHub статистика
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=redkindo&theme=github)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redkindo&theme=github_dark">
 
 ---
 
