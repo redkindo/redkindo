@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=redkindo&style=for-the-badge)
+![](https://img.shields.io/badge/Data%20Analyst-Python-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge)
 # 👋 Привет! Меня зовут Данила Редкин
 
 ### Data Analyst | Python | SQL | Power BI | Yandex DataLens
