@@ -65,12 +65,6 @@ https://github.com/redkindo/food-delivery-product-analysis
 
 ---
 
-## 📈 GitHub статистика
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redkindo&theme=github_dark">
-
----
-
 # 📫 Контакты
 
 📧 Email
