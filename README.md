@@ -41,7 +41,7 @@
 
 # 📂 Лучший проект
 
-## 🍔 Product Analytics — Food Delivery App
+## 🍔 Product Analytics of a Food Delivery Mobile App
 
 Комплексный проект по продуктовой аналитике мобильного приложения сервиса доставки еды.
 
