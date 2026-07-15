@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge)
 # 👋 Привет! Меня зовут Данила Редкин
 
-### Data Analyst | Python | SQL | Power BI | Yandex DataLens
+### Data Analyst | Product Analytics | Python | SQL | Power BI
 
 ## 👨‍💻 Обо мне
 
